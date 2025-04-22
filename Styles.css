@@ -1,0 +1,21 @@
+.photo-container {
+    dispaly: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.photo-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.photo-container img {
+    width: 200px;
+}
+body {
+    text-align: center;
+}
+ol, ul {
+    text-align: left;
+    display: inline-block;
+    list-style-type: circle;
+}
